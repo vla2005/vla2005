@@ -5,7 +5,7 @@
 ### Skills and Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,java,spring,laravel,mysql,postgresql,vuejs,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=php,java,spring,laravel,mysql,postgresql,javascript,vuejs,react,git,github" />
 </p>
 
 ### 📫 Reach me
